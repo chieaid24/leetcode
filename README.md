@@ -2,6 +2,8 @@
 
 Automatically commits submissions to LeetCode problems to this repository. Helps keep track of my daily progress!
 
+**My account ->** https://leetcode.com/u/a6chien/
+
 ## Repository structure
 
 Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
